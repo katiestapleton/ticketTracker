@@ -1,0 +1,64 @@
+**************************************
+Ticket Tracker Application
+-Author(s): Katie Stapleton
+-Coder(s): Katie Stapleton
+**************************************
+
+System Requirements
+
+FRONT-END section/pages:
+-landing Page
+-ticket chart (all)
+-ticket status/history (individual)
+-ticket submission
+-user login
+
+BACK-END Section/parts:
+-ticket chart (all)
+-ticket data/info (all/each)
+-ticket submission (individual)
+-ticket status/history (individual)
+-user login
+-user profile
+
+*************************************
+MVP requirements:
+
+Front-end:
+-Landing page (basic)
+-Ticket chart
+-Ticket submission
+
+Back-end:
+-ticket chart(all)
+-ticket submission (individual)
+
+************************************
+TICKET COMPONENTS: MVP to Advanced
+
+Lvl 1: MVP
+-Unique Identifier
+-Device/Service
+-Issue
+-Status
+
+Lvl 2: MVP 2 
+-Urgency
+-Submitted time stamps
+-used submitter (general contact)
+
+Lvl 3: General
+-Description
+-Assigned technician (general)
+-Status history/time: submit, repair/in-progress, closed
+-Current individual ticket status/info
+
+Lvl 4: Full history database build/update
+-Full Individual ticket history
+-Repair attempts
+
+Lvl 5: optional (user login/profile needed)
+-Technician (profile-linked)
+-user submitter (profile-linked)
+
+*************************************
